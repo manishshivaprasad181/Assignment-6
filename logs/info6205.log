@@ -1,0 +1,45 @@
+2023-03-12 22:33:03 INFO  SorterBenchmark - run: sort 10,000 elements using SorterBenchmark on class java.lang.Integer from 10,000 total elements and 1 runs using sorter: MergeSort
+2023-03-12 22:33:03 INFO  SorterBenchmark - run: sort 10,000 elements using SorterBenchmark on class java.lang.Integer from 10,000 total elements and 1 runs using sorter: HeapSort
+2023-03-12 22:33:03 INFO  SorterBenchmark - run: sort 10,000 elements using SorterBenchmark on class java.lang.Integer from 10,000 total elements and 1 runs using sorter: QuickSort
+2023-03-12 22:33:03 INFO  Benchmark_Timer - Begin run: Instrumenting helper for HeapSort with 10,000 elements with 1 runs
+2023-03-12 22:33:03 INFO  Benchmark_Timer - Begin run: Instrumenting helper for MergeSort with 10,000 elements with 1 runs
+2023-03-12 22:33:03 INFO  Benchmark_Timer - Begin run: Instrumenting helper for QuickSort with 10,000 elements with 1 runs
+2023-03-12 22:33:03 INFO  TimeLogger - Raw time per run (mSec):  4.33
+2023-03-12 22:33:03 INFO  SorterBenchmark - run: sort 20,000 elements using SorterBenchmark on class java.lang.Integer from 20,000 total elements and 1 runs using sorter: MergeSort
+2023-03-12 22:33:03 INFO  Benchmark_Timer - Begin run: Instrumenting helper for MergeSort with 20,000 elements with 1 runs
+2023-03-12 22:33:03 INFO  TimeLogger - Raw time per run (mSec):  43.73
+2023-03-12 22:33:03 INFO  SorterBenchmark - run: sort 40,000 elements using SorterBenchmark on class java.lang.Integer from 40,000 total elements and 1 runs using sorter: MergeSort
+2023-03-12 22:33:03 INFO  Benchmark_Timer - Begin run: Instrumenting helper for MergeSort with 40,000 elements with 1 runs
+2023-03-12 22:33:03 INFO  TimeLogger - Raw time per run (mSec):  12.59
+2023-03-12 22:33:03 INFO  SorterBenchmark - run: sort 80,000 elements using SorterBenchmark on class java.lang.Integer from 80,000 total elements and 1 runs using sorter: MergeSort
+2023-03-12 22:33:03 INFO  Benchmark_Timer - Begin run: Instrumenting helper for MergeSort with 80,000 elements with 1 runs
+2023-03-12 22:33:03 INFO  TimeLogger - Raw time per run (mSec):  27.24
+2023-03-12 22:33:03 INFO  SorterBenchmark - run: sort 160,000 elements using SorterBenchmark on class java.lang.Integer from 160,000 total elements and 1 runs using sorter: MergeSort
+2023-03-12 22:33:03 INFO  Benchmark_Timer - Begin run: Instrumenting helper for MergeSort with 160,000 elements with 1 runs
+2023-03-12 22:33:03 INFO  TimeLogger - Raw time per run (mSec):  61.07
+2023-03-12 22:33:03 INFO  TimeLogger - Raw time per run (mSec):  146.78
+2023-03-12 22:33:03 INFO  SorterBenchmark - run: sort 20,000 elements using SorterBenchmark on class java.lang.Integer from 20,000 total elements and 1 runs using sorter: QuickSort
+2023-03-12 22:33:03 INFO  Benchmark_Timer - Begin run: Instrumenting helper for QuickSort with 20,000 elements with 1 runs
+2023-03-12 22:33:04 INFO  TimeLogger - Raw time per run (mSec):  299.08
+2023-03-12 22:33:04 INFO  SorterBenchmark - run: sort 20,000 elements using SorterBenchmark on class java.lang.Integer from 20,000 total elements and 1 runs using sorter: HeapSort
+2023-03-12 22:33:04 INFO  Benchmark_Timer - Begin run: Instrumenting helper for HeapSort with 20,000 elements with 1 runs
+2023-03-12 22:33:06 INFO  TimeLogger - Raw time per run (mSec):  1155.65
+2023-03-12 22:33:06 INFO  SorterBenchmark - run: sort 40,000 elements using SorterBenchmark on class java.lang.Integer from 40,000 total elements and 1 runs using sorter: QuickSort
+2023-03-12 22:33:06 INFO  Benchmark_Timer - Begin run: Instrumenting helper for QuickSort with 40,000 elements with 1 runs
+2023-03-12 22:33:07 INFO  TimeLogger - Raw time per run (mSec):  1103.68
+2023-03-12 22:33:07 INFO  SorterBenchmark - run: sort 40,000 elements using SorterBenchmark on class java.lang.Integer from 40,000 total elements and 1 runs using sorter: HeapSort
+2023-03-12 22:33:07 INFO  Benchmark_Timer - Begin run: Instrumenting helper for HeapSort with 40,000 elements with 1 runs
+2023-03-12 22:33:16 INFO  TimeLogger - Raw time per run (mSec):  4746.45
+2023-03-12 22:33:16 INFO  SorterBenchmark - run: sort 80,000 elements using SorterBenchmark on class java.lang.Integer from 80,000 total elements and 1 runs using sorter: QuickSort
+2023-03-12 22:33:16 INFO  Benchmark_Timer - Begin run: Instrumenting helper for QuickSort with 80,000 elements with 1 runs
+2023-03-12 22:33:21 INFO  TimeLogger - Raw time per run (mSec):  4540.75
+2023-03-12 22:33:21 INFO  SorterBenchmark - run: sort 80,000 elements using SorterBenchmark on class java.lang.Integer from 80,000 total elements and 1 runs using sorter: HeapSort
+2023-03-12 22:33:21 INFO  Benchmark_Timer - Begin run: Instrumenting helper for HeapSort with 80,000 elements with 1 runs
+2023-03-12 22:33:53 INFO  TimeLogger - Raw time per run (mSec):  12216.66
+2023-03-12 22:33:53 INFO  SorterBenchmark - run: sort 160,000 elements using SorterBenchmark on class java.lang.Integer from 160,000 total elements and 1 runs using sorter: QuickSort
+2023-03-12 22:33:53 INFO  Benchmark_Timer - Begin run: Instrumenting helper for QuickSort with 160,000 elements with 1 runs
+2023-03-12 22:34:18 INFO  TimeLogger - Raw time per run (mSec):  19008.75
+2023-03-12 22:34:18 INFO  SorterBenchmark - run: sort 160,000 elements using SorterBenchmark on class java.lang.Integer from 160,000 total elements and 1 runs using sorter: HeapSort
+2023-03-12 22:34:18 INFO  Benchmark_Timer - Begin run: Instrumenting helper for HeapSort with 160,000 elements with 1 runs
+2023-03-12 22:35:46 INFO  TimeLogger - Raw time per run (mSec):  31604.84
+2023-03-12 22:38:08 INFO  TimeLogger - Raw time per run (mSec):  76766.39
